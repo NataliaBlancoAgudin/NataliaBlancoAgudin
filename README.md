@@ -10,7 +10,8 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NataliaBlancoAgudin&show_icons=true&theme=radical)  
  
-![Snake animation](https://raw.githubusercontent.com/NataliaBlancoAgudin/NataliaBlancoAgudin/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NataliaBlancoAgudin/NataliaBlancoAgudin/output/snake-dark.svg)
+
 
 
 
