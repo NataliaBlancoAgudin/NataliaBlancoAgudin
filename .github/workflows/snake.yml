@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write
+  contents: write   # 👈 necesario para que pueda hacer push
 
 jobs:
   generate:
@@ -18,26 +18,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Versión oscura
-      - name: Generar Snake Dark
+      - name: Generar Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: NataliaBlancoAgudin
-          outputs: dist/snake-dark.svg
-          theme: dark       # colores predeterminados oscuros
-          snake_color: "#61dafb"
-          bg_color: "#0d1117"
-
-      # Versión clara
-      - name: Generar Snake Light
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: NataliaBlancoAgudin
-          outputs: dist/snake-light.svg
-          theme: light      # colores predeterminados claros
-          snake_color: "#ff4d6d"
-          bg_color: "#ffffff"
-
+          outputs: dist/snake.svg
 
       - name: Deploy a rama output
         uses: crazy-max/ghaction-github-pages@v3
