@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Natalia Blanco Agudín  
 
-<!--
-**NataliaBlancoAgudin/NataliaBlancoAgudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería del Software** en la Universidad de Oviedo.  
+💡 Interesada en **diseño de software** y **seguridad informática**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estadísticas de GitHub  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBlancoAgudin&layout=compact&theme=radical)  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NataliaBlancoAgudin&show_icons=true&theme=radical)  
+ 
+
+![Snake animation](https://github.com/NataliaBlancoAgudin/NataliaBlancoAgudin/blob/output/github-contribution-grid-snake.svg)  
+
+
