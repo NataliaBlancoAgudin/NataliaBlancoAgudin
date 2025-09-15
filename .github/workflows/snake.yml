@@ -24,7 +24,9 @@ jobs:
         with:
           github_user_name: NataliaBlancoAgudin
           outputs: dist/snake-dark.svg
-          theme: dark
+          theme: dark       # colores predeterminados oscuros
+          snake_color: "#61dafb"
+          bg_color: "#0d1117"
 
       # Versión clara
       - name: Generar Snake Light
@@ -32,7 +34,10 @@ jobs:
         with:
           github_user_name: NataliaBlancoAgudin
           outputs: dist/snake-light.svg
-          theme: light
+          theme: light      # colores predeterminados claros
+          snake_color: "#ff4d6d"
+          bg_color: "#ffffff"
+
 
       - name: Deploy a rama output
         uses: crazy-max/ghaction-github-pages@v3
