@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Natalia Blanco Agudín  
+# Hola, Soy Natalia Blanco Agudín  
 
 🎓 Estudiante de **Ingeniería del Software** en la Universidad de Oviedo.  
 💡 Interesada en **diseño de software** y **seguridad informática**.  
